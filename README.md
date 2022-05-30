@@ -1,4 +1,4 @@
-# Dry Beans Classification | Kaggle Competition
+# Dry Beans Classification V2 | Kaggle Competition
 
 Unranked Competition on [Kaggle](https://www.kaggle.com/competitions/dry-beans-classification-iti-ai-pro-intake02) held by ITI AI-Pro.
 
